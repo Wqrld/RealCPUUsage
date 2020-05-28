@@ -1,0 +1,19 @@
+{
+  "name": "realcpuusage",
+  "version": "1.0.0",
+  "description": "get the real cpu usage of a linux machine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cpu",
+    "linux",
+    "windows",
+    "mac",
+    "cpu",
+    "usage"
+  ],
+  "author": "Wqrld",
+  "license": "ISC"
+}
