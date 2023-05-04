@@ -1,6 +1,6 @@
 {
   "name": "realcpuusage",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "get the real cpu usage of a linux machine",
   "main": "index.js",
   "scripts": {

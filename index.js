@@ -53,7 +53,6 @@ function getCPULoadAVG(avgTime = 1000, delay = 100) {
     const avg1 = cpuAverage();
 
     let interval = setInterval(() => {
-      console.debug('CPU Interval: ', i);
 
       if (i >= n) {
         clearInterval(interval);
